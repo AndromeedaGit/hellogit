@@ -1,2 +1,4 @@
 "Hi, this is the first file content" 
 Extending that.
+
+New feature1 is implemented.
